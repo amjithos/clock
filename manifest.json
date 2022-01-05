@@ -1,0 +1,20 @@
+{
+    "name" : "Clock Ui",
+    "short_name" : "Clock",
+    "start_url" : ".",
+    "background_color" : "#25252D",
+    "theme_color" : "#B8B8C7",
+    "display" : "standalone",
+    "icons" : [
+        {
+            "src" : "assets/img/logo64.png",
+            "sizes" : "64x64",
+            "type" : "image/png"
+        },
+        {
+            "src" : "assets/img/logo512.png",
+            "sizes" : "512x512",
+            "type" : "image/png"
+        }
+    ]
+}
